@@ -10,4 +10,4 @@ I write mildly interesting and sometimes stupid articles on my [blog](https://cy
 
 Thanks for visiting :3
 
-<img src="https://github.com/syne0/syne0/blob/main/pmk06vujpoj21.png" tyle="width: 40%; height: 40%"/>
+#<img src="https://github.com/syne0/syne0/blob/main/pmk06vujpoj21.png" tyle="width: 40%; height: 40%"/>
